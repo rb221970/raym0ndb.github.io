@@ -2,17 +2,20 @@ h1 {
         text-align: center;
         color: white; 
         font-family: 'Supermercado One', cursive;
+        font-size: 40px
 }
 
 p {
         text-align: center;
         color: white;
         font-family: 'Supermercado One', cursive;
+        font-size: 20px
 }
 
 body {
         background-color: rgb(0,0,0);
         font-family: 'Supermercado One', cursive;
+        font-size: 20px
 }
 
 .center {
